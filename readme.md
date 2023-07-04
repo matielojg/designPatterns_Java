@@ -16,6 +16,8 @@ O Padrão Strategy permite definir uma família de algoritmos, encapsular cada u
 
 Exemplo de implementação: [link para o código-fonte](/caminho/para/o/codigo/strategy.java)
 
+Site: [Refactoring Guru](https://refactoring.guru/design-patterns/strategy)
+
 ### Padrão Chain of Responsibility
 
 O Padrão Chain of Responsibility permite que você passe solicitações ao longo de uma cadeia de manipuladores, até que a solicitação seja tratada por um objeto adequado.
