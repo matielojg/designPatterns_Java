@@ -18,6 +18,13 @@ O Padrão Chain of Responsibility permite que você passe solicitações ao long
 
 Exemplo de implementação: [link para o código-fonte](https://github.com/matielojg/designPatterns_Java/tree/78f88db52f7a3e45d8f53f4bf78ce2adcec14ede)
 
+### Padrão State
+
+Semelhante ao Strategy, com este padrão é possível que um objeto se comporte de formas diferentes, dependendo do seu estado. Se o resultado de uma chamada de método depende do estado, podemos delegar esta ação para uma classe específica do estado atual.
+
+Exemplo de implementação: [link para o código-fonte]()
+Site: [Refactoring Guru](https://refactoring.guru/design-patterns/state)
+
 ### Padrão Observer
 
 O Padrão Observer define uma dependência um-para-muitos entre objetos, de modo que quando um objeto muda de estado, todos os seus dependentes são notificados e atualizados automaticamente.
