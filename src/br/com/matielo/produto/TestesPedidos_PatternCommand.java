@@ -5,7 +5,7 @@ import java.math.BigDecimal;
 import br.com.matielo.produto.pedido.GeraPedido;
 import br.com.matielo.produto.pedido.GeraPedidoHandler;
 
-public class TestesPedidos_PatternState {
+public class TestesPedidos_PatternCommand {
 
 	public static void main(String[] args) {
 		String cliente = args[0];
