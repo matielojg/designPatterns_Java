@@ -42,7 +42,9 @@ Site: [Refactoring Guru](https://refactoring.guru/design-patterns/command)
 
 O Padrão Observer define uma dependência um-para-muitos entre objetos, de modo que quando um objeto muda de estado, todos os seus dependentes são notificados e atualizados automaticamente.
 
-Exemplo de implementação: [link para o código-fonte](/caminho/para/o/codigo/observer.java)
+Exemplo de implementação: [link para o código-fonte](https://github.com/matielojg/designPatterns_Java/tree/72962cb70146177c7e4b710a737775cf90010c23)
+
+Site: [Refactoring Guru](https://refactoring.guru/design-patterns/observer)
 
 ## Como Usar
 
