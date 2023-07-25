@@ -2,9 +2,7 @@ package br.com.matielo.produto.orcamento;
 
 import java.math.BigDecimal;
 
-import br.com.matielo.produto.orcamento.situacao.Aprovado;
 import br.com.matielo.produto.orcamento.situacao.EmAnalise;
-import br.com.matielo.produto.orcamento.situacao.Reprovado;
 import br.com.matielo.produto.orcamento.situacao.SituacaoOrcamento;
 
 public class Orcamento {

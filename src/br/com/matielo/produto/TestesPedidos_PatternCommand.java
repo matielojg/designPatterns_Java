@@ -1,4 +1,5 @@
-package br.com.matielo.produto;
+package br.com.matielo.
+produto;
 
 import java.math.BigDecimal;
 
@@ -13,7 +14,7 @@ public class TestesPedidos_PatternCommand {
 		int quantidadeItens = Integer.parseInt(args[2]);
 
 		GeraPedido gerador = new GeraPedido(cliente, valorOrcamento, quantidadeItens);
-		GeraPedidoHandler handler = new GeraPedidoHandler(/* dependencias */);
-		handler.execute(gerador);
+		//GeraPedidoHandler handler = new GeraPedidoHandler(/* dependencias */);
+		//handler.execute(gerador);
 	}
 }

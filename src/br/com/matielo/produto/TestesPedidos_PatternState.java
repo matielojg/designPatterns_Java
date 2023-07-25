@@ -13,7 +13,7 @@ public class TestesPedidos_PatternState {
 		int quantidadeItens = Integer.parseInt(args[2]);
 
 		GeraPedido gerador = new GeraPedido(cliente, valorOrcamento, quantidadeItens);
-		GeraPedidoHandler handler = new GeraPedidoHandler(/* dependencias */);
-		handler.execute(gerador);
+		//GeraPedidoHandler handler = new GeraPedidoHandler(/* dependencias */);
+		//handler.execute(gerador);
 	}
 }
